@@ -25,3 +25,7 @@ A fun JavaScript-based game where users try to guess a randomly generated number
 - JavaScript (Vanilla)
 
 ## 📂 Folder Structure
+/Random-Number-Guessing-Game
+├── index.html
+├── style.css
+└── script.js
