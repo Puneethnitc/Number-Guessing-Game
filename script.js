@@ -28,7 +28,7 @@ guessform.addEventListener("submit",e=>{
      let para=document.createElement("p");
     if(guess_number==secret)
     {
-        para.innerText="Hurray! Your Guess is correct! The number is "+secret+" (:";
+        para.innerText="Hurray! Your Guess is correct! The number is "+secret+" :)";
         guessing.disabled=true;
         level.value='';
     }
